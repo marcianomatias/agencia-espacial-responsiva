@@ -17,6 +17,19 @@ Este é o repositório de um projeto de uma página responsiva desenvolvida util
 3. Explore a página responsiva em diferentes dispositivos e tamanhos de tela.
    
 ## Veja no Netlify
+
+###Resumo do site da Agência Espacial com Deploy na Netlify:
+
+Bem-vindo ao site da Agência Espacial! Somos uma organização dedicada à exploração do espaço e à busca por respostas que expandam o conhecimento humano sobre o universo.
+
+Em nosso site, você encontrará informações fascinantes sobre nossas missões passadas e presentes, detalhes emocionantes sobre projetos futuros e descobertas científicas que têm o potencial de mudar a forma como entendemos o cosmos.
+
+Estamos comprometidos com a divulgação científica e educacional, por isso oferecemos seções educativas com conteúdo enriquecedor sobre astronomia, astrofísica e tecnologias espaciais inovadoras.
+
+Graças à integração com a Netlify, garantimos um site rápido e seguro, permitindo que você acesse nossos recursos com facilidade e confiança.
+
+Explore nosso universo de informações e apaixone-se pela jornada emocionante através das estrelas. Junte-se a nós nessa incrível aventura espacial!
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2b6ca370-3822-448e-93f4-ffc576866014/deploy-status)](https://agenciaespacial.netlify.app/)
 ## Contribuições
 
