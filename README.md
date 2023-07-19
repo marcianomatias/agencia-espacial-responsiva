@@ -15,6 +15,9 @@ Este é o repositório de um projeto de uma página responsiva desenvolvida util
 1. Clone este repositório em sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador preferido.
 3. Explore a página responsiva em diferentes dispositivos e tamanhos de tela.
+   
+## Veja no Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b6ca370-3822-448e-93f4-ffc576866014/deploy-status)](https://app.netlify.com/sites/agenciaespacial/deploys)
 
 ## Contribuições
 
