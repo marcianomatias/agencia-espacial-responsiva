@@ -17,9 +17,7 @@ Este é o repositório de um projeto de uma página responsiva desenvolvida util
 3. Explore a página responsiva em diferentes dispositivos e tamanhos de tela.
    
 ## Veja no Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2b6ca370-3822-448e-93f4-ffc576866014/deploy-status)]
-(https://agenciaespacial.netlify.app/)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b6ca370-3822-448e-93f4-ffc576866014/deploy-status)](https://agenciaespacial.netlify.app/)
 ## Contribuições
 
 Contribuições são sempre bem-vindas! Se você identificar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
